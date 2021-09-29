@@ -1,1 +1,1 @@
-Soket Programlama
+Java ile hazırlanmış Soket Programlama yazılımı
